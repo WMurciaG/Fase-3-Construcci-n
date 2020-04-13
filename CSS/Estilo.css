@@ -15,6 +15,7 @@ header{
 .contenedor{
     background-color: rgb(55, 119, 145);
     text-align: justify;
+    vertical-align: top;
 }
 .central{
     background-color: rgb(55, 119, 145);
