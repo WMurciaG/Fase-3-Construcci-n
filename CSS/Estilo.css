@@ -20,8 +20,9 @@ header{
 .central{
     background-color: rgb(55, 119, 145);
     display: inline-block;
-    max-width: 65%;
+    width: 65%;
     text-align: justify;
+    vertical-align: top;
 }
 footer{
     background-color: rgb(212, 202, 202);
